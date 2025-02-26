@@ -1,0 +1,1 @@
+cp zip.exe bzip2.dll /mingw64/bin/
